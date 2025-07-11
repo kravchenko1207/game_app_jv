@@ -35,6 +35,8 @@ mate.academy.java8_part1.game_app
 │
 ├── GameApp.java       # Main class with all functional logic
 
+```
+
 ---
 ## ⚙️ Requirements
 Java 8 or higher
