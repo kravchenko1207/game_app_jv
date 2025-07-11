@@ -1,4 +1,4 @@
-package mate.academy.java8_part1.game_app;
+package org.example;
 
 import java.util.List;
 import java.util.Random;
