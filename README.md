@@ -106,6 +106,6 @@ Game{name='Metro', genre='Shooter', rating=7.8, isMultiplayer=false}
 This project is open-source and free to use for learning purposes.
 
 ## 👩‍💻 Author
-Kravchenko Iryna
-GitHub: kravchenko1207
-Project created as part of a Java 8 learning initiative.
+# Kravchenko Iryna
+# GitHub: kravchenko1207
+## Project created as part of a Java 8 learning initiative.
